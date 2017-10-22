@@ -81,26 +81,6 @@ def _save_request(reqJsonFileName, reqBody):
         json.dump(reqBody, f)
 
 
-#------------------ Wrong pass by copy parameters --------------------------
-# User can define method needed here to change fileds in the reqBody
-def change_destination(newDes):
-    '''(str) -> NoneType
-    This function change the destination for searching in gloabal
-    variable reqBody in this module to newDes. NOTE: newDes must be a valid
-    IATA airport code'''
-    reqBodyObj.request.slices[0].destination = newDes
-    reqBody = reqBodyObj.dictify()
-
-
-def update_req_org_des_dt(newOrigin, newDestination, newDate):
-    '''(str, str, str) -> NoneType
-    This function change the destination, origin for searching in gloabal
-    variable reqBody in this module to newDestination. NOTE: newDestination must be valid IATA airport codes and newDate be of format YYYY-MM-DD'''
-    reqBodyObj.request.slices[0].origin = newOrigin
-    reqBodyObj.request.slices[0].destination = newDestination
-    reqBodyObj.request.slices[0].date = newDate
-    reqBody = reqBodyObj.dictify()
-#----------------------------------------------------------------------------
 
 
 if __name__ == '__main__':
