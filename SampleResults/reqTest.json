@@ -1,0 +1,1 @@
+{'request': {'slice': [{'maxStops': 1, 'origin': 'BOS', 'kind': 'qpxexpress#sliceInput', 'maxConnectionDuration': 360, 'preferredCabin': 'COACH', 'date': '2017-11-22', 'destination': 'LAX'}], 'passengers': {'seniorCount': 0, 'infantInLapCount': 0, 'childCount': 0, 'adultCount': 1, 'infantInSeatCount': 0}, 'solutions': 20}}

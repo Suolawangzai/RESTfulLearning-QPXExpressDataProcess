@@ -1,0 +1,3203 @@
+{
+ "kind": "qpxExpress#tripsSearch",
+ "trips": {
+  "kind": "qpxexpress#tripOptions",
+  "requestId": "eDsKnDK6psFdy8ynH0RVn1",
+  "data": {
+   "kind": "qpxexpress#data",
+   "airport": [
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "AMS",
+     "city": "AMS",
+     "name": "Amsterdam Schiphol Airport"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "CDG",
+     "city": "PAR",
+     "name": "Paris Charles de Gaulle"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "HEL",
+     "city": "HEL",
+     "name": "Helsinki-Vantaa"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "IST",
+     "city": "IST",
+     "name": "Istanbul Ataturk"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "KBP",
+     "city": "IEV",
+     "name": "Kiev Boryspil International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "LHR",
+     "city": "LON",
+     "name": "London Heathrow"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "PEK",
+     "city": "BJS",
+     "name": "Beijing Capital International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "SVO",
+     "city": "MOW",
+     "name": "Moscow Sheremetyevo"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "SXF",
+     "city": "BER",
+     "name": "Berlin Schoenefeld"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "TXL",
+     "city": "BER",
+     "name": "Berlin Tegel"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "WAW",
+     "city": "WAW",
+     "name": "Warsaw Frederic Chopin"
+    }
+   ],
+   "city": [
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "AMS",
+     "name": "Amsterdam"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "BER",
+     "name": "Berlin"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "BJS",
+     "name": "Beijing"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "HEL",
+     "name": "Helsinki"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "IEV",
+     "name": "Kiev"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "IST",
+     "name": "Istanbul"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "LON",
+     "name": "London"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "MOW",
+     "name": "Moscow"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "PAR",
+     "name": "Paris"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "WAW",
+     "name": "Warsaw"
+    }
+   ],
+   "aircraft": [
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "320",
+     "name": "Airbus A320"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "321",
+     "name": "Airbus A321"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "32B",
+     "name": "Airbus A321 (Sharklets)"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "333",
+     "name": "Airbus A330"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "738",
+     "name": "Boeing 737"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "73H",
+     "name": "Boeing 737"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "73J",
+     "name": "Boeing 737"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "767",
+     "name": "Boeing 767"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "77W",
+     "name": "Boeing 777"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "788",
+     "name": "Boeing 787"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "789",
+     "name": "Boeing 787"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "DH4",
+     "name": "De Havilland-Bombardier Dash-8"
+    }
+   ],
+   "tax": [
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "QX_001",
+     "name": "France Passenger Service Charge International"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "UB_001",
+     "name": "United Kingdom Passenger Service Charge Departures"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "FR_007",
+     "name": "France Airport Tax Domestic And International"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YK_001",
+     "name": "Ukraine Airport Passenger Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YR_F",
+     "name": "CZ YR surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YR_I",
+     "name": "PS YR surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "RN_001",
+     "name": "Netherlands Passenger Service Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "CJ_001",
+     "name": "Netherlands Security Service Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YQ_I",
+     "name": "PS YQ surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "XU_001",
+     "name": "Finland Air Transport Supervision Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "ND_001",
+     "name": "Poland Passenger Service Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "XW_001",
+     "name": "Poland Airport Tax"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "RI_002",
+     "name": "Russia (in Europe) Terminal Use Charge International Arrival"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "UA_001",
+     "name": "Ukraine Security Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "DQ_001",
+     "name": "Finland Security Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "CN_001",
+     "name": "China Airport Fee"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YQ_F",
+     "name": "SU YQ surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "TR_001",
+     "name": "Turkey Airport Service Charge International"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "RI_001",
+     "name": "Russia (in Europe) Terminal Use Charge International Departure"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "WL_001",
+     "name": "Finland Passenger Fee International Transit"
+    }
+   ],
+   "carrier": [
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "AF",
+     "name": "Air France"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "AY",
+     "name": "Finnair Oyj"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "BA",
+     "name": "British Airways p.l.c."
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "CZ",
+     "name": "China Southern Airlines"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "KL",
+     "name": "KLM"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "LO",
+     "name": "LOT Polish Airlines"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "MF",
+     "name": "Xiamen Airlines"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "PS",
+     "name": "Ukraine International Airlines"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "SU",
+     "name": "PJSC Aeroflot"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "TK",
+     "name": "Turkish Airlines"
+    }
+   ]
+  },
+  "tripOption": [
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY1821",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2001",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 850,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 670,
+        "flight": {
+         "carrier": "PS",
+         "number": "288"
+        },
+        "id": "GOW2Y5ugOnbvNu2M",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LNyBdqNi3Uvo-bqw",
+          "aircraft": "767",
+          "arrivalTime": "2017-12-04T08:40+02:00",
+          "departureTime": "2017-12-04T03:30+08:00",
+          "origin": "PEK",
+          "destination": "KBP",
+          "originTerminal": "2",
+          "duration": 670,
+          "mileage": 3994,
+          "meal": "Hot Meal"
+         }
+        ],
+        "connectionDuration": 45
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 135,
+        "flight": {
+         "carrier": "PS",
+         "number": "423"
+        },
+        "id": "GMPyA+DTlzqk4ZuG",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Lx19UELvfZQVbJrZ",
+          "aircraft": "738",
+          "arrivalTime": "2017-12-04T10:40+01:00",
+          "departureTime": "2017-12-04T09:25+02:00",
+          "origin": "KBP",
+          "destination": "TXL",
+          "duration": 135,
+          "mileage": 771,
+          "meal": "Food for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AJfJcfUEYKrMQYmA5v93OKQav5+T46uPo8UOv0Tk3ph6",
+        "carrier": "PS",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "QL1LFP5"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AJfJcfUEYKrMQYmA5v93OKQav5+T46uPo8UOv0Tk3ph6",
+        "segmentId": "GOW2Y5ugOnbvNu2M"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AJfJcfUEYKrMQYmA5v93OKQav5+T46uPo8UOv0Tk3ph6",
+        "segmentId": "GMPyA+DTlzqk4ZuG"
+       }
+      ],
+      "baseFareTotal": "CNY480",
+      "saleFareTotal": "CNY480",
+      "saleTaxTotal": "CNY1341",
+      "saleTotal": "CNY1821",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YK_001",
+        "chargeType": "GOVERNMENT",
+        "code": "YK",
+        "country": "UA",
+        "salePrice": "CNY57"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UA_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UA",
+        "country": "UA",
+        "salePrice": "CNY27"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY120"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1047"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       }
+      ],
+      "fareCalculation": "BJS PS X/IEV PS BER 73.75QL1LFP5 NUC 73.75 END ROE 6.5077 FARE CNY 480 XT 90CN 27UA 57YK 120YQ 1047YR",
+      "latestTicketingTime": "2017-12-03T14:29-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY1977",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2003",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1000,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 510,
+        "flight": {
+         "carrier": "SU",
+         "number": "205"
+        },
+        "id": "GK+4E3T0RkNLbbdv",
+        "cabin": "COACH",
+        "bookingCode": "N",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LVT+QCSyuQXROG10",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T15:20+03:00",
+          "departureTime": "2017-12-04T11:50+08:00",
+          "origin": "PEK",
+          "destination": "SVO",
+          "originTerminal": "2",
+          "destinationTerminal": "F",
+          "duration": 510,
+          "mileage": 3599,
+          "meal": "Lunch"
+         }
+        ],
+        "connectionDuration": 320
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 170,
+        "flight": {
+         "carrier": "SU",
+         "number": "2316"
+        },
+        "id": "GCrXBdAsAPjxE6U4",
+        "cabin": "COACH",
+        "bookingCode": "N",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LXO7OhUcSpESgiPh",
+          "aircraft": "32B",
+          "arrivalTime": "2017-12-04T21:30+01:00",
+          "departureTime": "2017-12-04T20:40+03:00",
+          "origin": "SVO",
+          "destination": "SXF",
+          "originTerminal": "D",
+          "duration": 170,
+          "mileage": 991,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "carrier": "SU",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "NVOA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "segmentId": "GCrXBdAsAPjxE6U4"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "segmentId": "GK+4E3T0RkNLbbdv"
+       }
+      ],
+      "baseFareTotal": "CNY770",
+      "saleFareTotal": "CNY770",
+      "saleTaxTotal": "CNY1207",
+      "saleTotal": "CNY1977",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RI_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RI",
+        "country": "RU",
+        "salePrice": "CNY47"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY1058"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RI_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RI",
+        "country": "RU",
+        "salePrice": "CNY12"
+       }
+      ],
+      "fareCalculation": "BJS SU X/MOW SU BER 118.32NVOA NUC 118.32 END ROE 6.5077 FARE CNY 770 XT 90CN 59RI 1058YQ",
+      "latestTicketingTime": "2017-10-26T00:19-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2012",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2007",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 955,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 500,
+        "flight": {
+         "carrier": "SU",
+         "number": "201"
+        },
+        "id": "GTG+iZIG9XCBCVI5",
+        "cabin": "COACH",
+        "bookingCode": "N",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LwnLgB3kJUjjZYCJ",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T05:25+03:00",
+          "departureTime": "2017-12-04T02:05+08:00",
+          "origin": "PEK",
+          "destination": "SVO",
+          "originTerminal": "2",
+          "destinationTerminal": "F",
+          "duration": 500,
+          "mileage": 3599,
+          "meal": "Dinner"
+         }
+        ],
+        "connectionDuration": 290
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 165,
+        "flight": {
+         "carrier": "SU",
+         "number": "2312"
+        },
+        "id": "GN-gjt9wC4EG8zIZ",
+        "cabin": "COACH",
+        "bookingCode": "N",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LNkhXJcagA0E7d6m",
+          "aircraft": "320",
+          "arrivalTime": "2017-12-04T11:00+01:00",
+          "departureTime": "2017-12-04T10:15+03:00",
+          "origin": "SVO",
+          "destination": "SXF",
+          "originTerminal": "D",
+          "duration": 165,
+          "mileage": 991,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "carrier": "SU",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "NVOA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "segmentId": "GTG+iZIG9XCBCVI5"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "segmentId": "GN-gjt9wC4EG8zIZ"
+       }
+      ],
+      "baseFareTotal": "CNY770",
+      "saleFareTotal": "CNY770",
+      "saleTaxTotal": "CNY1242",
+      "saleTotal": "CNY2012",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RI_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RI",
+        "country": "RU",
+        "salePrice": "CNY47"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY1058"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RI_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RI",
+        "country": "RU",
+        "salePrice": "CNY47"
+       }
+      ],
+      "fareCalculation": "BJS SU X/MOW SU BER 118.32NVOA NUC 118.32 END ROE 6.5077 FARE CNY 770 XT 90CN 94RI 1058YQ",
+      "latestTicketingTime": "2017-10-26T00:19-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2012",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2002",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 840,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 500,
+        "flight": {
+         "carrier": "SU",
+         "number": "201"
+        },
+        "id": "GTG+iZIG9XCBCVI5",
+        "cabin": "COACH",
+        "bookingCode": "N",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LwnLgB3kJUjjZYCJ",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T05:25+03:00",
+          "departureTime": "2017-12-04T02:05+08:00",
+          "origin": "PEK",
+          "destination": "SVO",
+          "originTerminal": "2",
+          "destinationTerminal": "F",
+          "duration": 500,
+          "mileage": 3599,
+          "meal": "Dinner"
+         }
+        ],
+        "connectionDuration": 175
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 165,
+        "flight": {
+         "carrier": "SU",
+         "number": "2684"
+        },
+        "id": "GdSmhWT01D-r2FSH",
+        "cabin": "COACH",
+        "bookingCode": "N",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LsugL99gilWEmT0H",
+          "aircraft": "320",
+          "arrivalTime": "2017-12-04T09:05+01:00",
+          "departureTime": "2017-12-04T08:20+03:00",
+          "origin": "SVO",
+          "destination": "SXF",
+          "originTerminal": "D",
+          "duration": 165,
+          "mileage": 991,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "carrier": "SU",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "NVOA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "segmentId": "GdSmhWT01D-r2FSH"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AsJVgfUGRWbaMieFpldRbyiuWwoKpP49ul1uq93U",
+        "segmentId": "GTG+iZIG9XCBCVI5"
+       }
+      ],
+      "baseFareTotal": "CNY770",
+      "saleFareTotal": "CNY770",
+      "saleTaxTotal": "CNY1242",
+      "saleTotal": "CNY2012",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RI_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RI",
+        "country": "RU",
+        "salePrice": "CNY47"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY1058"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RI_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RI",
+        "country": "RU",
+        "salePrice": "CNY47"
+       }
+      ],
+      "fareCalculation": "BJS SU X/MOW SU BER 118.32NVOA NUC 118.32 END ROE 6.5077 FARE CNY 770 XT 90CN 94RI 1058YQ",
+      "latestTicketingTime": "2017-10-26T00:19-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2702",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2004",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 760,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 635,
+        "flight": {
+         "carrier": "KL",
+         "number": "898"
+        },
+        "id": "Gp80wWQb6ZYOkZKY",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Ll48bKWZ2riqkcB3",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:30+01:00",
+          "departureTime": "2017-12-04T11:55+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 635,
+          "mileage": 4861,
+          "meal": "Meal"
+         }
+        ],
+        "connectionDuration": 55
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 70,
+        "flight": {
+         "carrier": "KL",
+         "number": "1833"
+        },
+        "id": "Ge24WXRmyq2Zh2dA",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LrFo3--yf-k-JEs3",
+          "aircraft": "73H",
+          "arrivalTime": "2017-12-04T17:35+01:00",
+          "departureTime": "2017-12-04T16:25+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 70,
+          "mileage": 359,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Au2XgHhTk1md9RUAReiGDQA9qDEpIWNrpjDOEJJ4yBNM",
+        "carrier": "KL",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "VLP9WCN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Au2XgHhTk1md9RUAReiGDQA9qDEpIWNrpjDOEJJ4yBNM",
+        "segmentId": "Gp80wWQb6ZYOkZKY"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Au2XgHhTk1md9RUAReiGDQA9qDEpIWNrpjDOEJJ4yBNM",
+        "segmentId": "Ge24WXRmyq2Zh2dA"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1402",
+      "saleTotal": "CNY2702",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1225"
+       }
+      ],
+      "fareCalculation": "BJS KL X/AMS KL BER 199.76VLP9WCN NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 1225YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2702",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200E",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1060,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 670,
+        "flight": {
+         "carrier": "KL",
+         "number": "4302"
+        },
+        "id": "GNw4IQUYaYKvw+n1",
+        "cabin": "COACH",
+        "bookingCode": "R",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LLwK0uRNNcqeffpL",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T04:40+01:00",
+          "departureTime": "2017-12-04T00:30+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 670,
+          "operatingDisclosure": "OPERATED BY CHINA SOUTHERN",
+          "mileage": 4861,
+          "meal": "Dinner"
+         }
+        ],
+        "connectionDuration": 310
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 80,
+        "flight": {
+         "carrier": "KL",
+         "number": "1823"
+        },
+        "id": "Gtu3qWCzk98u0Nzk",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Lyfl5+DdxIm06a6R",
+          "aircraft": "73J",
+          "arrivalTime": "2017-12-04T11:10+01:00",
+          "departureTime": "2017-12-04T09:50+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 80,
+          "mileage": 359,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AyZZd/FvC9qQzZMxKqK1jiRYmAxOg7JDIY2PPVXmLcRI",
+        "carrier": "KL",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "RL1PRWCN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyZZd/FvC9qQzZMxKqK1jiRYmAxOg7JDIY2PPVXmLcRI",
+        "segmentId": "Gtu3qWCzk98u0Nzk"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyZZd/FvC9qQzZMxKqK1jiRYmAxOg7JDIY2PPVXmLcRI",
+        "segmentId": "GNw4IQUYaYKvw+n1"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1402",
+      "saleTotal": "CNY2702",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1225"
+       }
+      ],
+      "fareCalculation": "BJS KL X/AMS KL BER 199.76RL1PRWCN NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 1225YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2702",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2008",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1020,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 635,
+        "flight": {
+         "carrier": "KL",
+         "number": "898"
+        },
+        "id": "Gp80wWQb6ZYOkZKY",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Ll48bKWZ2riqkcB3",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:30+01:00",
+          "departureTime": "2017-12-04T11:55+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 635,
+          "mileage": 4861,
+          "meal": "Meal"
+         }
+        ],
+        "connectionDuration": 310
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 75,
+        "flight": {
+         "carrier": "KL",
+         "number": "1835"
+        },
+        "id": "GWIwKPJys1jq5351",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LKZ6LUT8kLQ5WTJz",
+          "aircraft": "73H",
+          "arrivalTime": "2017-12-04T21:55+01:00",
+          "departureTime": "2017-12-04T20:40+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 75,
+          "mileage": 359,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Au2XgHhTk1md9RUAReiGDQA9qDEpIWNrpjDOEJJ4yBNM",
+        "carrier": "KL",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "VLP9WCN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Au2XgHhTk1md9RUAReiGDQA9qDEpIWNrpjDOEJJ4yBNM",
+        "segmentId": "Gp80wWQb6ZYOkZKY"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Au2XgHhTk1md9RUAReiGDQA9qDEpIWNrpjDOEJJ4yBNM",
+        "segmentId": "GWIwKPJys1jq5351"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1402",
+      "saleTotal": "CNY2702",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1225"
+       }
+      ],
+      "fareCalculation": "BJS KL X/AMS KL BER 199.76VLP9WCN NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 1225YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2702",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200C",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 955,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 670,
+        "flight": {
+         "carrier": "KL",
+         "number": "4302"
+        },
+        "id": "GNw4IQUYaYKvw+n1",
+        "cabin": "COACH",
+        "bookingCode": "R",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LLwK0uRNNcqeffpL",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T04:40+01:00",
+          "departureTime": "2017-12-04T00:30+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 670,
+          "operatingDisclosure": "OPERATED BY CHINA SOUTHERN",
+          "mileage": 4861,
+          "meal": "Dinner"
+         }
+        ],
+        "connectionDuration": 205
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 80,
+        "flight": {
+         "carrier": "KL",
+         "number": "1821"
+        },
+        "id": "G7ge1o-ntxXJjEej",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LhF4KnDzs2aQW7OS",
+          "aircraft": "73J",
+          "arrivalTime": "2017-12-04T09:25+01:00",
+          "departureTime": "2017-12-04T08:05+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 80,
+          "mileage": 359,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AyZZd/FvC9qQzZMxKqK1jiRYmAxOg7JDIY2PPVXmLcRI",
+        "carrier": "KL",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "RL1PRWCN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyZZd/FvC9qQzZMxKqK1jiRYmAxOg7JDIY2PPVXmLcRI",
+        "segmentId": "G7ge1o-ntxXJjEej"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyZZd/FvC9qQzZMxKqK1jiRYmAxOg7JDIY2PPVXmLcRI",
+        "segmentId": "GNw4IQUYaYKvw+n1"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1402",
+      "saleTotal": "CNY2702",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1225"
+       }
+      ],
+      "fareCalculation": "BJS KL X/AMS KL BER 199.76RL1PRWCN NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 1225YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2704",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200F",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1060,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 670,
+        "flight": {
+         "carrier": "CZ",
+         "number": "345"
+        },
+        "id": "GFF2M8XDGiQPk1dW",
+        "cabin": "COACH",
+        "bookingCode": "Z",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LSyG7SUkZPFvY969",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T04:40+01:00",
+          "departureTime": "2017-12-04T00:30+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 670,
+          "mileage": 4861,
+          "meal": "Alcoholic Beverages - Complimentary"
+         }
+        ],
+        "connectionDuration": 310
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 80,
+        "flight": {
+         "carrier": "CZ",
+         "number": "7659"
+        },
+        "id": "GF5Lq8rL+ct0VPLi",
+        "cabin": "COACH",
+        "bookingCode": "Z",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LWZNBx8CFqRYbBNK",
+          "aircraft": "73J",
+          "arrivalTime": "2017-12-04T11:10+01:00",
+          "departureTime": "2017-12-04T09:50+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 80,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 359
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AGLVgPjR+P/3mPm+rT0mhzSoAWt9AF06ZzOxIOoLyPN/",
+        "carrier": "CZ",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "ZLP4WQE"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AGLVgPjR+P/3mPm+rT0mhzSoAWt9AF06ZzOxIOoLyPN/",
+        "segmentId": "GF5Lq8rL+ct0VPLi"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AGLVgPjR+P/3mPm+rT0mhzSoAWt9AF06ZzOxIOoLyPN/",
+        "segmentId": "GFF2M8XDGiQPk1dW"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1404",
+      "saleTotal": "CNY2704",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1200"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY27"
+       }
+      ],
+      "fareCalculation": "BJS CZ X/AMS CZ BER 199.76ZLP4WQE NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 27YQ 1200YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2704",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200A",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1020,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 635,
+        "flight": {
+         "carrier": "MF",
+         "number": "9801"
+        },
+        "id": "GZJyuXQc7bUZfjO+",
+        "cabin": "COACH",
+        "bookingCode": "U",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L9gCMXIg3z8BVAfO",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:30+01:00",
+          "departureTime": "2017-12-04T11:55+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 635,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 4861
+         }
+        ],
+        "connectionDuration": 310
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 75,
+        "flight": {
+         "carrier": "MF",
+         "number": "9727"
+        },
+        "id": "GBHcGsZ+cxyoLo+I",
+        "cabin": "COACH",
+        "bookingCode": "U",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LV0fhhU7njSaZwVC",
+          "aircraft": "73H",
+          "arrivalTime": "2017-12-04T21:55+01:00",
+          "departureTime": "2017-12-04T20:40+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 75,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 359
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Ajl5RKg7KBMX1Ml8rva6vYFHVaRD2eVoNYy/k/q97hf2",
+        "carrier": "MF",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "ULPRWCN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ajl5RKg7KBMX1Ml8rva6vYFHVaRD2eVoNYy/k/q97hf2",
+        "segmentId": "GZJyuXQc7bUZfjO+"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ajl5RKg7KBMX1Ml8rva6vYFHVaRD2eVoNYy/k/q97hf2",
+        "segmentId": "GBHcGsZ+cxyoLo+I"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1404",
+      "saleTotal": "CNY2704",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1200"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY27"
+       }
+      ],
+      "fareCalculation": "BJS MF X/AMS MF BER 199.76ULPRWCN NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 27YQ 1200YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2704",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2009",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1020,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 635,
+        "flight": {
+         "carrier": "CZ",
+         "number": "767"
+        },
+        "id": "GF0GgVbPnsFcs0X5",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LfAcKAPeJeJIrCzk",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:30+01:00",
+          "departureTime": "2017-12-04T11:55+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 635,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 4861
+         }
+        ],
+        "connectionDuration": 310
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 75,
+        "flight": {
+         "carrier": "CZ",
+         "number": "7741"
+        },
+        "id": "Gl9XumFf3ajjNq-X",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LrmmwnSiXoJ6XjnY",
+          "aircraft": "73H",
+          "arrivalTime": "2017-12-04T21:55+01:00",
+          "departureTime": "2017-12-04T20:40+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 75,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 359
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "ASXFASy562+XKhejiCMNVl3Apy8rClCFaKhbmo9xoCAA",
+        "carrier": "CZ",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "TLP2WQE"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ASXFASy562+XKhejiCMNVl3Apy8rClCFaKhbmo9xoCAA",
+        "segmentId": "GF0GgVbPnsFcs0X5"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ASXFASy562+XKhejiCMNVl3Apy8rClCFaKhbmo9xoCAA",
+        "segmentId": "Gl9XumFf3ajjNq-X"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1404",
+      "saleTotal": "CNY2704",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1200"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY27"
+       }
+      ],
+      "fareCalculation": "BJS CZ X/AMS CZ BER 199.76TLP2WQE NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 27YQ 1200YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2704",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2006",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 760,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 635,
+        "flight": {
+         "carrier": "MF",
+         "number": "9801"
+        },
+        "id": "GZJyuXQc7bUZfjO+",
+        "cabin": "COACH",
+        "bookingCode": "U",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L9gCMXIg3z8BVAfO",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:30+01:00",
+          "departureTime": "2017-12-04T11:55+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 635,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 4861
+         }
+        ],
+        "connectionDuration": 55
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 70,
+        "flight": {
+         "carrier": "MF",
+         "number": "9973"
+        },
+        "id": "GDksNoUvszhqSXes",
+        "cabin": "COACH",
+        "bookingCode": "U",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LY-cro53cfGxtwOH",
+          "aircraft": "73H",
+          "arrivalTime": "2017-12-04T17:35+01:00",
+          "departureTime": "2017-12-04T16:25+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 70,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 359
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Ajl5RKg7KBMX1Ml8rva6vYFHVaRD2eVoNYy/k/q97hf2",
+        "carrier": "MF",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "ULPRWCN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ajl5RKg7KBMX1Ml8rva6vYFHVaRD2eVoNYy/k/q97hf2",
+        "segmentId": "GZJyuXQc7bUZfjO+"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ajl5RKg7KBMX1Ml8rva6vYFHVaRD2eVoNYy/k/q97hf2",
+        "segmentId": "GDksNoUvszhqSXes"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1404",
+      "saleTotal": "CNY2704",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1200"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY27"
+       }
+      ],
+      "fareCalculation": "BJS MF X/AMS MF BER 199.76ULPRWCN NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 27YQ 1200YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2704",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200D",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 955,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 670,
+        "flight": {
+         "carrier": "CZ",
+         "number": "345"
+        },
+        "id": "GFF2M8XDGiQPk1dW",
+        "cabin": "COACH",
+        "bookingCode": "Z",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LSyG7SUkZPFvY969",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T04:40+01:00",
+          "departureTime": "2017-12-04T00:30+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 670,
+          "mileage": 4861,
+          "meal": "Alcoholic Beverages - Complimentary"
+         }
+        ],
+        "connectionDuration": 205
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 80,
+        "flight": {
+         "carrier": "CZ",
+         "number": "7655"
+        },
+        "id": "GynystSnFlgRml9D",
+        "cabin": "COACH",
+        "bookingCode": "Z",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L4lWUudKmWNSyfnO",
+          "aircraft": "73J",
+          "arrivalTime": "2017-12-04T09:25+01:00",
+          "departureTime": "2017-12-04T08:05+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 80,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 359
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AGLVgPjR+P/3mPm+rT0mhzSoAWt9AF06ZzOxIOoLyPN/",
+        "carrier": "CZ",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "ZLP4WQE"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AGLVgPjR+P/3mPm+rT0mhzSoAWt9AF06ZzOxIOoLyPN/",
+        "segmentId": "GynystSnFlgRml9D"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AGLVgPjR+P/3mPm+rT0mhzSoAWt9AF06ZzOxIOoLyPN/",
+        "segmentId": "GFF2M8XDGiQPk1dW"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1404",
+      "saleTotal": "CNY2704",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1200"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY27"
+       }
+      ],
+      "fareCalculation": "BJS CZ X/AMS CZ BER 199.76ZLP4WQE NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 27YQ 1200YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY2704",
+    "id": "Pmp9aqdIC2PQRLooiSw8H2005",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 760,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 635,
+        "flight": {
+         "carrier": "CZ",
+         "number": "767"
+        },
+        "id": "GF0GgVbPnsFcs0X5",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LfAcKAPeJeJIrCzk",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:30+01:00",
+          "departureTime": "2017-12-04T11:55+08:00",
+          "origin": "PEK",
+          "destination": "AMS",
+          "originTerminal": "2",
+          "duration": 635,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 4861
+         }
+        ],
+        "connectionDuration": 55
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 70,
+        "flight": {
+         "carrier": "CZ",
+         "number": "7995"
+        },
+        "id": "GUBO-8LckGTA2od+",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L8--15Rht0Lc2c1K",
+          "aircraft": "73H",
+          "arrivalTime": "2017-12-04T17:35+01:00",
+          "departureTime": "2017-12-04T16:25+01:00",
+          "origin": "AMS",
+          "destination": "TXL",
+          "duration": 70,
+          "operatingDisclosure": "OPERATED BY KLM",
+          "mileage": 359
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "ASXFASy562+XKhejiCMNVl3Apy8rClCFaKhbmo9xoCAA",
+        "carrier": "CZ",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "TLP2WQE"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ASXFASy562+XKhejiCMNVl3Apy8rClCFaKhbmo9xoCAA",
+        "segmentId": "GUBO-8LckGTA2od+"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ASXFASy562+XKhejiCMNVl3Apy8rClCFaKhbmo9xoCAA",
+        "segmentId": "GF0GgVbPnsFcs0X5"
+       }
+      ],
+      "baseFareTotal": "CNY1300",
+      "saleFareTotal": "CNY1300",
+      "saleTaxTotal": "CNY1404",
+      "saleTotal": "CNY2704",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RN",
+        "country": "NL",
+        "salePrice": "CNY42"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CJ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CJ",
+        "country": "NL",
+        "salePrice": "CNY45"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1200"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY27"
+       }
+      ],
+      "fareCalculation": "BJS CZ X/AMS CZ BER 199.76TLP2WQE NUC 199.76 END ROE 6.5077 FARE CNY 1300 XT 90CN 45CJ 42RN 27YQ 1200YR",
+      "latestTicketingTime": "2017-10-31T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY3370",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200B",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1025,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 585,
+        "flight": {
+         "carrier": "LO",
+         "number": "92"
+        },
+        "id": "GeIug8Y00tWXkCrn",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LtIOnHRpuKCXmCEN",
+          "aircraft": "788",
+          "arrivalTime": "2017-12-04T11:30+01:00",
+          "departureTime": "2017-12-04T08:45+08:00",
+          "origin": "PEK",
+          "destination": "WAW",
+          "originTerminal": "3",
+          "duration": 585,
+          "mileage": 4312,
+          "meal": "Breakfast"
+         }
+        ],
+        "connectionDuration": 350
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 90,
+        "flight": {
+         "carrier": "LO",
+         "number": "389"
+        },
+        "id": "GbaJjxNO8Ys5n4GX",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LOiZhL0W0j8I0lN9",
+          "aircraft": "DH4",
+          "arrivalTime": "2017-12-04T18:50+01:00",
+          "departureTime": "2017-12-04T17:20+01:00",
+          "origin": "WAW",
+          "destination": "TXL",
+          "duration": 90,
+          "mileage": 324,
+          "meal": "Food for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Ag9fqCe97c0QyR7a8XL0gLV5rBtMTYQbVY+QSngtr+pI",
+        "carrier": "LO",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "T1TAN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ag9fqCe97c0QyR7a8XL0gLV5rBtMTYQbVY+QSngtr+pI",
+        "segmentId": "GeIug8Y00tWXkCrn"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ag9fqCe97c0QyR7a8XL0gLV5rBtMTYQbVY+QSngtr+pI",
+        "segmentId": "GbaJjxNO8Ys5n4GX"
+       }
+      ],
+      "baseFareTotal": "CNY2070",
+      "saleFareTotal": "CNY2070",
+      "saleTaxTotal": "CNY1300",
+      "saleTotal": "CNY3370",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XW_001",
+        "chargeType": "GOVERNMENT",
+        "code": "XW",
+        "country": "PL",
+        "salePrice": "CNY111"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "ND_001",
+        "chargeType": "GOVERNMENT",
+        "code": "ND",
+        "country": "PL",
+        "salePrice": "CNY1"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY1098"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       }
+      ],
+      "fareCalculation": "BJS LO X/WAW LO BER 318.08T1TAN NUC 318.08 END ROE 6.5077 FARE CNY 2070 XT 90CN 1ND 111XW 1098YQ",
+      "latestTicketingTime": "2017-10-25T00:19-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY4543",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200H",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 980,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 685,
+        "flight": {
+         "carrier": "BA",
+         "number": "38"
+        },
+        "id": "G1FHSV9crsjcYunW",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LT9rKyl9--nZQEn1",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:35+00:00",
+          "departureTime": "2017-12-04T12:10+08:00",
+          "origin": "PEK",
+          "destination": "LHR",
+          "originTerminal": "3",
+          "destinationTerminal": "5",
+          "duration": 685,
+          "mileage": 5063,
+          "meal": "Meal"
+         }
+        ],
+        "connectionDuration": 185
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 110,
+        "flight": {
+         "carrier": "BA",
+         "number": "988"
+        },
+        "id": "GWWosovpoH978klz",
+        "cabin": "COACH",
+        "bookingCode": "S",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L6e4UjUfj+mLpkqX",
+          "aircraft": "320",
+          "arrivalTime": "2017-12-04T21:30+01:00",
+          "departureTime": "2017-12-04T18:40+00:00",
+          "origin": "LHR",
+          "destination": "TXL",
+          "originTerminal": "5",
+          "duration": 110,
+          "mileage": 588,
+          "meal": "Food and Beverages for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AyT4Cqtlm/k0/U58L8UvPy8VYDeBCD005eIiFCxWFRny3xgbV/ABuLeQw5/e6SIAtOqLVHqXAC5q1fNCAojoikeMZLuYnDE",
+        "carrier": "BA",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "VLX0O6C0"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyT4Cqtlm/k0/U58L8UvPy8VYDeBCD005eIiFCxWFRny3xgbV/ABuLeQw5/e6SIAtOqLVHqXAC5q1fNCAojoikeMZLuYnDE",
+        "segmentId": "GWWosovpoH978klz"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyT4Cqtlm/k0/U58L8UvPy8VYDeBCD005eIiFCxWFRny3xgbV/ABuLeQw5/e6SIAtOqLVHqXAC5q1fNCAojoikeMZLuYnDE",
+        "segmentId": "G1FHSV9crsjcYunW"
+       }
+      ],
+      "baseFareTotal": "CNY3140",
+      "saleFareTotal": "CNY3140",
+      "saleTaxTotal": "CNY1403",
+      "saleTotal": "CNY4543",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UB_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UB",
+        "country": "GB",
+        "salePrice": "CNY163"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY1150"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       }
+      ],
+      "fareCalculation": "BJS BA X/LON BA BER 482.50VLX0O6C0 NUC 482.50 END ROE 6.5077 FARE CNY 3140 XT 90CN 163UB 1150YQ",
+      "latestTicketingTime": "2017-10-30T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY4543",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200G",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 870,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 685,
+        "flight": {
+         "carrier": "BA",
+         "number": "38"
+        },
+        "id": "G1FHSV9crsjcYunW",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LT9rKyl9--nZQEn1",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T15:35+00:00",
+          "departureTime": "2017-12-04T12:10+08:00",
+          "origin": "PEK",
+          "destination": "LHR",
+          "originTerminal": "3",
+          "destinationTerminal": "5",
+          "duration": 685,
+          "mileage": 5063,
+          "meal": "Meal"
+         }
+        ],
+        "connectionDuration": 70
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 115,
+        "flight": {
+         "carrier": "BA",
+         "number": "996"
+        },
+        "id": "GAqTiKAo8Bb+fscm",
+        "cabin": "COACH",
+        "bookingCode": "S",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LLuOdM1EuD4r0+iV",
+          "aircraft": "320",
+          "arrivalTime": "2017-12-04T19:40+01:00",
+          "departureTime": "2017-12-04T16:45+00:00",
+          "origin": "LHR",
+          "destination": "TXL",
+          "originTerminal": "5",
+          "duration": 115,
+          "mileage": 588,
+          "meal": "Food and Beverages for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AyT4Cqtlm/k0/U58L8UvPy8VYDeBCD005eIiFCxWFRny3xgbV/ABuLeQw5/e6SIAtOqLVHqXAC5q1fNCAojoikeMZLuYnDE",
+        "carrier": "BA",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "VLX0O6C0"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyT4Cqtlm/k0/U58L8UvPy8VYDeBCD005eIiFCxWFRny3xgbV/ABuLeQw5/e6SIAtOqLVHqXAC5q1fNCAojoikeMZLuYnDE",
+        "segmentId": "GAqTiKAo8Bb+fscm"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AyT4Cqtlm/k0/U58L8UvPy8VYDeBCD005eIiFCxWFRny3xgbV/ABuLeQw5/e6SIAtOqLVHqXAC5q1fNCAojoikeMZLuYnDE",
+        "segmentId": "G1FHSV9crsjcYunW"
+       }
+      ],
+      "baseFareTotal": "CNY3140",
+      "saleFareTotal": "CNY3140",
+      "saleTaxTotal": "CNY1403",
+      "saleTotal": "CNY4543",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UB_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UB",
+        "country": "GB",
+        "salePrice": "CNY163"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CNY1150"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       }
+      ],
+      "fareCalculation": "BJS BA X/LON BA BER 482.50VLX0O6C0 NUC 482.50 END ROE 6.5077 FARE CNY 3140 XT 90CN 163UB 1150YQ",
+      "latestTicketingTime": "2017-10-30T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY4741",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200I",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 895,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 660,
+        "flight": {
+         "carrier": "AF",
+         "number": "381"
+        },
+        "id": "GWIJjftPua2IYjfp",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 6,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LLKvjUpCvJT0ICSp",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T05:00+01:00",
+          "departureTime": "2017-12-04T01:00+08:00",
+          "origin": "PEK",
+          "destination": "CDG",
+          "originTerminal": "2",
+          "destinationTerminal": "2E",
+          "duration": 660,
+          "mileage": 5086,
+          "meal": "Breakfast"
+         }
+        ],
+        "connectionDuration": 130
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 105,
+        "flight": {
+         "carrier": "AF",
+         "number": "1434"
+        },
+        "id": "Gmd8rCyY1FmpaI0F",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 6,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L8rPdjUpJyKorKRh",
+          "aircraft": "320",
+          "arrivalTime": "2017-12-04T08:55+01:00",
+          "departureTime": "2017-12-04T07:10+01:00",
+          "origin": "CDG",
+          "destination": "TXL",
+          "originTerminal": "2F",
+          "duration": 105,
+          "operatingDisclosure": "OPERATED BY JOON",
+          "mileage": 528
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AiOTFrtOUwErig2JOJxlrVDlAERRF18zGIeFtRxclyWs",
+        "carrier": "AF",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "TLXSFWCN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AiOTFrtOUwErig2JOJxlrVDlAERRF18zGIeFtRxclyWs",
+        "segmentId": "GWIJjftPua2IYjfp"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AiOTFrtOUwErig2JOJxlrVDlAERRF18zGIeFtRxclyWs",
+        "segmentId": "Gmd8rCyY1FmpaI0F"
+       }
+      ],
+      "baseFareTotal": "CNY3280",
+      "saleFareTotal": "CNY3280",
+      "saleTaxTotal": "CNY1461",
+      "saleTotal": "CNY4741",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "QX_001",
+        "chargeType": "GOVERNMENT",
+        "code": "QX",
+        "country": "FR",
+        "salePrice": "CNY82"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "FR_007",
+        "chargeType": "GOVERNMENT",
+        "code": "FR",
+        "country": "FR",
+        "salePrice": "CNY64"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1225"
+       }
+      ],
+      "fareCalculation": "BJS AF X/PAR AF BER 504.01TLXSFWCN NUC 504.01 END ROE 6.5077 FARE CNY 3280 XT 90CN 64FR 82QX 1225YR",
+      "latestTicketingTime": "2017-10-26T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY5851",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200J",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 805,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 530,
+        "flight": {
+         "carrier": "AY",
+         "number": "86"
+        },
+        "id": "GhsllBTdTJue0LG4",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L3HZ+xoePE9LRqSC",
+          "aircraft": "333",
+          "arrivalTime": "2017-12-04T14:25+02:00",
+          "departureTime": "2017-12-04T11:35+08:00",
+          "origin": "PEK",
+          "destination": "HEL",
+          "originTerminal": "3",
+          "destinationTerminal": "2",
+          "duration": 530,
+          "mileage": 3917,
+          "meal": "Hot Meal"
+         }
+        ],
+        "connectionDuration": 155
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 120,
+        "flight": {
+         "carrier": "AY",
+         "number": "1435"
+        },
+        "id": "GVzLS-4s4f5tWmWh",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L8S8fzpchofVByZS",
+          "aircraft": "321",
+          "arrivalTime": "2017-12-04T18:00+01:00",
+          "departureTime": "2017-12-04T17:00+02:00",
+          "origin": "HEL",
+          "destination": "TXL",
+          "originTerminal": "2",
+          "duration": 120,
+          "mileage": 694,
+          "meal": "Food and Beverages for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AG5fqpJWZRo3XsGS/qpLVH+iajUqM4xoDfOUhRDfhyCVLgjBWZb9qp+r6Wec6MKy2VIDO8Itl6ncu/gU6N97Tfi7TmyNTXE",
+        "carrier": "AY",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "TVA0CN"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AG5fqpJWZRo3XsGS/qpLVH+iajUqM4xoDfOUhRDfhyCVLgjBWZb9qp+r6Wec6MKy2VIDO8Itl6ncu/gU6N97Tfi7TmyNTXE",
+        "segmentId": "GhsllBTdTJue0LG4"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AG5fqpJWZRo3XsGS/qpLVH+iajUqM4xoDfOUhRDfhyCVLgjBWZb9qp+r6Wec6MKy2VIDO8Itl6ncu/gU6N97Tfi7TmyNTXE",
+        "segmentId": "GVzLS-4s4f5tWmWh"
+       }
+      ],
+      "baseFareTotal": "CNY4260",
+      "saleFareTotal": "CNY4260",
+      "saleTaxTotal": "CNY1591",
+      "saleTotal": "CNY5851",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XU_001",
+        "chargeType": "GOVERNMENT",
+        "code": "XU",
+        "country": "FI",
+        "salePrice": "CNY10"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "DQ_001",
+        "chargeType": "GOVERNMENT",
+        "code": "DQ",
+        "country": "FI",
+        "salePrice": "CNY40"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "WL_001",
+        "chargeType": "GOVERNMENT",
+        "code": "WL",
+        "country": "FI",
+        "salePrice": "CNY33"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1418"
+       }
+      ],
+      "fareCalculation": "BJS AY X/HEL AY BER 654.60TVA0CN NUC 654.60 END ROE 6.5077 FARE CNY 4260 XT 90CN 40DQ 33WL 10XU 1418YR",
+      "latestTicketingTime": "2017-12-01T11:35-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CNY6439",
+    "id": "Pmp9aqdIC2PQRLooiSw8H200K",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 980,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 620,
+        "flight": {
+         "carrier": "TK",
+         "number": "21"
+        },
+        "id": "GadiTGSG6ZGZKvyb",
+        "cabin": "COACH",
+        "bookingCode": "H",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LSwWmOf8jXPOBdwl",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T06:10+03:00",
+          "departureTime": "2017-12-04T00:50+08:00",
+          "origin": "PEK",
+          "destination": "IST",
+          "originTerminal": "3",
+          "destinationTerminal": "I",
+          "duration": 620,
+          "mileage": 4392,
+          "meal": "Meal"
+         }
+        ],
+        "connectionDuration": 180
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 180,
+        "flight": {
+         "carrier": "TK",
+         "number": "1721"
+        },
+        "id": "G3Eun3PE-cKV6MwI",
+        "cabin": "COACH",
+        "bookingCode": "H",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LMwrXBoyvXHzEOrH",
+          "aircraft": "32B",
+          "arrivalTime": "2017-12-04T10:10+01:00",
+          "departureTime": "2017-12-04T09:10+03:00",
+          "origin": "IST",
+          "destination": "TXL",
+          "originTerminal": "I",
+          "duration": 180,
+          "mileage": 1081,
+          "meal": "Meal"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Asg8UkGu3OInwPYPmTJwp/2lCx8ib2EeuPWJ7YnO9Ncg",
+        "carrier": "TK",
+        "origin": "BJS",
+        "destination": "BER",
+        "basisCode": "HLF2XOX"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Asg8UkGu3OInwPYPmTJwp/2lCx8ib2EeuPWJ7YnO9Ncg",
+        "segmentId": "GadiTGSG6ZGZKvyb"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Asg8UkGu3OInwPYPmTJwp/2lCx8ib2EeuPWJ7YnO9Ncg",
+        "segmentId": "G3Eun3PE-cKV6MwI"
+       }
+      ],
+      "baseFareTotal": "CNY4970",
+      "saleFareTotal": "CNY4970",
+      "saleTaxTotal": "CNY1469",
+      "saleTotal": "CNY6439",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "TR_001",
+        "chargeType": "GOVERNMENT",
+        "code": "TR",
+        "country": "TR",
+        "salePrice": "CNY40"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "CNY1339"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CN_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CN",
+        "country": "CN",
+        "salePrice": "CNY90"
+       }
+      ],
+      "fareCalculation": "BJS TK X/IST TK BER 763.71HLF2XOX NUC 763.71 END ROE 6.5077 FARE CNY 4970 XT 90CN 40TR 1339YR",
+      "latestTicketingTime": "2017-12-03T11:49-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   }
+  ]
+ }
+}

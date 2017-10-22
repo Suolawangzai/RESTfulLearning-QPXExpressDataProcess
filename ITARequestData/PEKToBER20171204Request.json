@@ -1,0 +1,1 @@
+{"request": {"solutions": 20, "passengers": {"childCount": 0, "seniorCount": 0, "infantInLapCount": 0, "adultCount": 1, "infantInSeatCount": 0}, "slice": [{"date": "2017-12-04", "preferredCabin": "COACH", "maxStops": 1, "destination": "BER", "origin": "PEK", "maxConnectionDuration": 360, "kind": "qpxexpress#sliceInput"}]}}

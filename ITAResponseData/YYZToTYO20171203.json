@@ -1,0 +1,3614 @@
+{
+ "kind": "qpxExpress#tripsSearch",
+ "trips": {
+  "kind": "qpxexpress#tripOptions",
+  "requestId": "bq6cGiFqM9J6edmAQ0RVn1",
+  "data": {
+   "kind": "qpxexpress#data",
+   "airport": [
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "BOS",
+     "city": "BOS",
+     "name": "Boston Edward L. Logan International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "DEN",
+     "city": "DEN",
+     "name": "Denver International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "HND",
+     "city": "TYO",
+     "name": "Tokyo International (Haneda)"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "IAD",
+     "city": "WAS",
+     "name": "Washington Dulles International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "NRT",
+     "city": "TYO",
+     "name": "Tokyo Narita International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "ORD",
+     "city": "CHI",
+     "name": "Chicago O'Hare"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "YVR",
+     "city": "YVR",
+     "name": "Vancouver International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "YYZ",
+     "city": "YTO",
+     "name": "Toronto Lester B. Pearson International"
+    }
+   ],
+   "city": [
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "BOS",
+     "name": "Boston"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "CHI",
+     "name": "Chicago"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "DEN",
+     "name": "Denver"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "TYO",
+     "name": "Tokyo"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "WAS",
+     "name": "Washington"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "YTO",
+     "name": "Toronto"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "YVR",
+     "name": "Vancouver"
+    }
+   ],
+   "aircraft": [
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "319",
+     "name": "Airbus A319"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "320",
+     "name": "Airbus A320"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "777",
+     "name": "Boeing 777"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "77W",
+     "name": "Boeing 777"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "788",
+     "name": "Boeing 787"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "789",
+     "name": "Boeing 787"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "DH4",
+     "name": "De Havilland-Bombardier Dash-8"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "E75",
+     "name": "Embraer RJ-175"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "E7W",
+     "name": "Embraer RJ-175"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "E90",
+     "name": "Embraer RJ-190"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "ERJ",
+     "name": "Embraer ERJ-135/145"
+    }
+   ],
+   "tax": [
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "RC",
+     "name": "Canadian Harmonized Sales Tax (ON)"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "XY",
+     "name": "US Immigration Fee"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "AY_001",
+     "name": "US September 11th Security Fee"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "XA",
+     "name": "USDA APHIS Fee"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YC",
+     "name": "US Customs Fee"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YQ_I",
+     "name": "JL YQ surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "SQ",
+     "name": "Toronto Airport Improvement Fee"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "CA",
+     "name": "Canadian Air Travelers Security Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "XF",
+     "name": "US Passenger Facility Charge"
+    }
+   ],
+   "carrier": [
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "AC",
+     "name": "Air Canada"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "JL",
+     "name": "Japan Airlines Co., Ltd."
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "NH",
+     "name": "ANA"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "UA",
+     "name": "United Airlines"
+    }
+   ]
+  },
+  "tripOption": [
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD955.16",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH002",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 985,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 310,
+        "flight": {
+         "carrier": "AC",
+         "number": "107"
+        },
+        "id": "GpMFykDJoqsz8Noq",
+        "cabin": "COACH",
+        "bookingCode": "T",
+        "bookingCodeCount": 3,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LiU1IPp8y20aVorP",
+          "aircraft": "320",
+          "arrivalTime": "2017-12-03T12:25-08:00",
+          "departureTime": "2017-12-03T10:15-05:00",
+          "origin": "YYZ",
+          "destination": "YVR",
+          "originTerminal": "1",
+          "destinationTerminal": "M",
+          "duration": 310,
+          "mileage": 2077,
+          "meal": "Food for Purchase"
+         }
+        ],
+        "connectionDuration": 85
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 590,
+        "flight": {
+         "carrier": "AC",
+         "number": "3"
+        },
+        "id": "GWPdJWl8+-UvE4kW",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L5wvXsgTaEOWuHUn",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T16:40+09:00",
+          "departureTime": "2017-12-03T13:50-08:00",
+          "origin": "YVR",
+          "destination": "NRT",
+          "originTerminal": "M",
+          "destinationTerminal": "1",
+          "duration": 590,
+          "mileage": 4660,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "carrier": "AC",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "LLWCJO"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GWPdJWl8+-UvE4kW"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GpMFykDJoqsz8Noq"
+       }
+      ],
+      "baseFareTotal": "CAD901.00",
+      "saleFareTotal": "CAD901.00",
+      "saleTaxTotal": "CAD54.16",
+      "saleTotal": "CAD955.16",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       }
+      ],
+      "fareCalculation": "YTO AC X/YVR AC TYO 732.64LLWCJO NUC 732.64 END ROE 1.22979 FARE CAD 901.00 XT 25.91CA 3.25RC 25.00SQ",
+      "latestTicketingTime": "2017-10-25T12:19-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD955.16",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH004",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1120,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 297,
+        "flight": {
+         "carrier": "AC",
+         "number": "103"
+        },
+        "id": "GayyKB5-wlEuzkYI",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LuoggqINKG6wCsuF",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-03T09:57-08:00",
+          "departureTime": "2017-12-03T08:00-05:00",
+          "origin": "YYZ",
+          "destination": "YVR",
+          "originTerminal": "1",
+          "destinationTerminal": "M",
+          "duration": 297,
+          "mileage": 2077,
+          "meal": "Food for Purchase"
+         }
+        ],
+        "connectionDuration": 233
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 590,
+        "flight": {
+         "carrier": "AC",
+         "number": "3"
+        },
+        "id": "GWPdJWl8+-UvE4kW",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L5wvXsgTaEOWuHUn",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T16:40+09:00",
+          "departureTime": "2017-12-03T13:50-08:00",
+          "origin": "YVR",
+          "destination": "NRT",
+          "originTerminal": "M",
+          "destinationTerminal": "1",
+          "duration": 590,
+          "mileage": 4660,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "carrier": "AC",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "LLWCJO"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GayyKB5-wlEuzkYI"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GWPdJWl8+-UvE4kW"
+       }
+      ],
+      "baseFareTotal": "CAD901.00",
+      "saleFareTotal": "CAD901.00",
+      "saleTaxTotal": "CAD54.16",
+      "saleTotal": "CAD955.16",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       }
+      ],
+      "fareCalculation": "YTO AC X/YVR AC TYO 732.64LLWCJO NUC 732.64 END ROE 1.22979 FARE CAD 901.00 XT 25.91CA 3.25RC 25.00SQ",
+      "latestTicketingTime": "2017-10-25T12:19-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD955.16",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH001",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 800,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 800,
+        "flight": {
+         "carrier": "AC",
+         "number": "5"
+        },
+        "id": "GW2OuES6aaJVAC4N",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Li4oD0L4GY1ZQSIm",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T16:55+09:00",
+          "departureTime": "2017-12-03T13:35-05:00",
+          "origin": "YYZ",
+          "destination": "HND",
+          "originTerminal": "1",
+          "destinationTerminal": "I",
+          "duration": 800,
+          "mileage": 6425,
+          "meal": "Breakfast",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "carrier": "AC",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "LLWCJO"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GW2OuES6aaJVAC4N"
+       }
+      ],
+      "baseFareTotal": "CAD901.00",
+      "saleFareTotal": "CAD901.00",
+      "saleTaxTotal": "CAD54.16",
+      "saleTotal": "CAD955.16",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       }
+      ],
+      "fareCalculation": "YTO AC TYO 732.64LLWCJO NUC 732.64 END ROE 1.22979 FARE CAD 901.00 XT 25.91CA 3.25RC 25.00SQ",
+      "latestTicketingTime": "2017-10-25T12:19-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD955.16",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH003",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1060,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 310,
+        "flight": {
+         "carrier": "AC",
+         "number": "105"
+        },
+        "id": "Gjw77GuFA5i-edvd",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LspAj6FxRrA+3L0P",
+          "aircraft": "320",
+          "arrivalTime": "2017-12-03T11:10-08:00",
+          "departureTime": "2017-12-03T09:00-05:00",
+          "origin": "YYZ",
+          "destination": "YVR",
+          "originTerminal": "1",
+          "destinationTerminal": "M",
+          "duration": 310,
+          "mileage": 2077,
+          "meal": "Food for Purchase"
+         }
+        ],
+        "connectionDuration": 160
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 590,
+        "flight": {
+         "carrier": "AC",
+         "number": "3"
+        },
+        "id": "GWPdJWl8+-UvE4kW",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L5wvXsgTaEOWuHUn",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T16:40+09:00",
+          "departureTime": "2017-12-03T13:50-08:00",
+          "origin": "YVR",
+          "destination": "NRT",
+          "originTerminal": "M",
+          "destinationTerminal": "1",
+          "duration": 590,
+          "mileage": 4660,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "carrier": "AC",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "LLWCJO"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "Gjw77GuFA5i-edvd"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GWPdJWl8+-UvE4kW"
+       }
+      ],
+      "baseFareTotal": "CAD901.00",
+      "saleFareTotal": "CAD901.00",
+      "saleTaxTotal": "CAD54.16",
+      "saleTotal": "CAD955.16",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       }
+      ],
+      "fareCalculation": "YTO AC X/YVR AC TYO 732.64LLWCJO NUC 732.64 END ROE 1.22979 FARE CAD 901.00 XT 25.91CA 3.25RC 25.00SQ",
+      "latestTicketingTime": "2017-10-25T12:19-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD955.16",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH006",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1180,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 292,
+        "flight": {
+         "carrier": "AC",
+         "number": "101"
+        },
+        "id": "GlRm4V5F5C++Lzc+",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LCjT-kIHo5qClXTk",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-03T08:52-08:00",
+          "departureTime": "2017-12-03T07:00-05:00",
+          "origin": "YYZ",
+          "destination": "YVR",
+          "originTerminal": "1",
+          "destinationTerminal": "M",
+          "duration": 292,
+          "mileage": 2077,
+          "meal": "Food for Purchase"
+         }
+        ],
+        "connectionDuration": 298
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 590,
+        "flight": {
+         "carrier": "AC",
+         "number": "3"
+        },
+        "id": "GWPdJWl8+-UvE4kW",
+        "cabin": "COACH",
+        "bookingCode": "L",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L5wvXsgTaEOWuHUn",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T16:40+09:00",
+          "departureTime": "2017-12-03T13:50-08:00",
+          "origin": "YVR",
+          "destination": "NRT",
+          "originTerminal": "M",
+          "destinationTerminal": "1",
+          "duration": 590,
+          "mileage": 4660,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "carrier": "AC",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "LLWCJO"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GWPdJWl8+-UvE4kW"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AuJe1vcR9R6IEbWuT0r3LQJsn0HokA6j+GUliAp6ZjGTHO/",
+        "segmentId": "GlRm4V5F5C++Lzc+"
+       }
+      ],
+      "baseFareTotal": "CAD901.00",
+      "saleFareTotal": "CAD901.00",
+      "saleTaxTotal": "CAD54.16",
+      "saleTotal": "CAD955.16",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       }
+      ],
+      "fareCalculation": "YTO AC X/YVR AC TYO 732.64LLWCJO NUC 732.64 END ROE 1.22979 FARE CAD 901.00 XT 25.91CA 3.25RC 25.00SQ",
+      "latestTicketingTime": "2017-10-25T12:19-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1010.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00C",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1125,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 113,
+        "flight": {
+         "carrier": "JL",
+         "number": "5715"
+        },
+        "id": "GXMvPC0OqgRdwt0f",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 5,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Lp05zT0DWfNzUdzd",
+          "aircraft": "DH4",
+          "arrivalTime": "2017-12-03T09:38-05:00",
+          "departureTime": "2017-12-03T07:45-05:00",
+          "origin": "YYZ",
+          "destination": "BOS",
+          "originTerminal": "3",
+          "destinationTerminal": "A",
+          "duration": 113,
+          "operatingDisclosure": "OPERATED BY WESTJET ENCORE FOR WS",
+          "mileage": 444,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 172
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 840,
+        "flight": {
+         "carrier": "JL",
+         "number": "7"
+        },
+        "id": "GvZ9lJUbYAn85aZO",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LczgUih-66p0iBsz",
+          "aircraft": "789",
+          "arrivalTime": "2017-12-04T16:30+09:00",
+          "departureTime": "2017-12-03T12:30-05:00",
+          "origin": "BOS",
+          "destination": "NRT",
+          "originTerminal": "E",
+          "destinationTerminal": "2",
+          "duration": 840,
+          "mileage": 6683,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "carrier": "JL",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "VLW0N2D1"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "segmentId": "GvZ9lJUbYAn85aZO"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "segmentId": "GXMvPC0OqgRdwt0f"
+       }
+      ],
+      "baseFareTotal": "CAD919.00",
+      "saleFareTotal": "CAD919.00",
+      "saleTaxTotal": "CAD91.26",
+      "saleTotal": "CAD1010.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CAD4.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO JL X/BOS JL TYO M 747.28VLW0N2D1 NUC 747.28 END ROE 1.22979 FARE CAD 919.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 4.00YQ 5.60XF BOS4.50",
+      "latestTicketingTime": "2017-10-29T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1010.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH008",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1101,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 129,
+        "flight": {
+         "carrier": "JL",
+         "number": "7451"
+        },
+        "id": "GRVmNa84TeZxMyRg",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LwXVjNgh778gwXpQ",
+          "aircraft": "E75",
+          "arrivalTime": "2017-12-03T09:08-06:00",
+          "departureTime": "2017-12-03T07:59-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "3",
+          "destinationTerminal": "3",
+          "duration": 129,
+          "operatingDisclosure": "OPERATED BY ENVOY AIR AS AMERICAN EAGLE FOR AA",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 177
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 795,
+        "flight": {
+         "carrier": "JL",
+         "number": "7009"
+        },
+        "id": "G2K2J84RGAq5md2N",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LA3KPEW-zGrae6fB",
+          "aircraft": "788",
+          "arrivalTime": "2017-12-04T16:20+09:00",
+          "departureTime": "2017-12-03T12:05-06:00",
+          "origin": "ORD",
+          "destination": "NRT",
+          "originTerminal": "3",
+          "destinationTerminal": "2",
+          "duration": 795,
+          "operatingDisclosure": "OPERATED BY AMERICAN",
+          "mileage": 6257,
+          "meal": "Dinner",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "carrier": "JL",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "VLW0N2D1"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "segmentId": "GRVmNa84TeZxMyRg"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "segmentId": "G2K2J84RGAq5md2N"
+       }
+      ],
+      "baseFareTotal": "CAD919.00",
+      "saleFareTotal": "CAD919.00",
+      "saleTaxTotal": "CAD91.26",
+      "saleTotal": "CAD1010.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CAD4.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO JL X/CHI JL TYO M 747.28VLW0N2D1 NUC 747.28 END ROE 1.22979 FARE CAD 919.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 4.00YQ 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-29T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1010.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH005",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1026,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 129,
+        "flight": {
+         "carrier": "JL",
+         "number": "7451"
+        },
+        "id": "GRVmNa84TeZxMyRg",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 7,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LwXVjNgh778gwXpQ",
+          "aircraft": "E75",
+          "arrivalTime": "2017-12-03T09:08-06:00",
+          "departureTime": "2017-12-03T07:59-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "3",
+          "destinationTerminal": "3",
+          "duration": 129,
+          "operatingDisclosure": "OPERATED BY ENVOY AIR AS AMERICAN EAGLE FOR AA",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 97
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 800,
+        "flight": {
+         "carrier": "JL",
+         "number": "9"
+        },
+        "id": "GVvg-aDUH7-1wvjQ",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LZ8-J-dvnyAAL0TJ",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T15:05+09:00",
+          "departureTime": "2017-12-03T10:45-06:00",
+          "origin": "ORD",
+          "destination": "NRT",
+          "originTerminal": "3",
+          "destinationTerminal": "2",
+          "duration": 800,
+          "mileage": 6257,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "carrier": "JL",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "VLW0N2D1"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "segmentId": "GRVmNa84TeZxMyRg"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "Ar3Skw1rGbPX5oXbATk7DfLb7uM9D1Au3/NacNBqOjHNI6/",
+        "segmentId": "GVvg-aDUH7-1wvjQ"
+       }
+      ],
+      "baseFareTotal": "CAD919.00",
+      "saleFareTotal": "CAD919.00",
+      "saleTaxTotal": "CAD91.26",
+      "saleTotal": "CAD1010.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CAD4.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO JL X/CHI JL TYO M 747.28VLW0N2D1 NUC 747.28 END ROE 1.22979 FARE CAD 919.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 4.00YQ 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-29T23:59-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00A",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 987,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 119,
+        "flight": {
+         "carrier": "UA",
+         "number": "5636"
+        },
+        "id": "GyK7-CzG6fncyz6s",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LEIGQIsbEexK-YE9",
+          "aircraft": "E7W",
+          "arrivalTime": "2017-12-03T15:02-06:00",
+          "departureTime": "2017-12-03T14:03-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 119,
+          "operatingDisclosure": "OPERATED BY SKYWEST DBA UNITED EXPRESS",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 73
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 795,
+        "flight": {
+         "carrier": "UA",
+         "number": "7911"
+        },
+        "id": "GuQKPfGlfUofReGC",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LIyHbG5gY21nQRgE",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T20:30+09:00",
+          "departureTime": "2017-12-03T16:15-06:00",
+          "origin": "ORD",
+          "destination": "HND",
+          "originTerminal": "1",
+          "destinationTerminal": "I",
+          "duration": 795,
+          "operatingDisclosure": "OPERATED BY ANA",
+          "mileage": 6288,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GyK7-CzG6fncyz6s"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GuQKPfGlfUofReGC"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/CHI UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00F",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1090,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 119,
+        "flight": {
+         "carrier": "UA",
+         "number": "5595"
+        },
+        "id": "Gv3FzZBjqC5ZwdDg",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LA+zwTe03hbC8uVj",
+          "aircraft": "E7W",
+          "arrivalTime": "2017-12-03T09:44-06:00",
+          "departureTime": "2017-12-03T08:45-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 119,
+          "operatingDisclosure": "OPERATED BY SKYWEST DBA UNITED EXPRESS",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 161
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 810,
+        "flight": {
+         "carrier": "UA",
+         "number": "881"
+        },
+        "id": "GqoYRVAnMz+Ns7i2",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LRYOqn5-Stra37sD",
+          "aircraft": "777",
+          "arrivalTime": "2017-12-04T16:55+09:00",
+          "departureTime": "2017-12-03T12:25-06:00",
+          "origin": "ORD",
+          "destination": "NRT",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 810,
+          "mileage": 6257,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "Gv3FzZBjqC5ZwdDg"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GqoYRVAnMz+Ns7i2"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/CHI UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH009",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 983,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 83,
+        "flight": {
+         "carrier": "UA",
+         "number": "4678"
+        },
+        "id": "G7adPtqlOKErCc95",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LyCJaCB7DWsIDhrk",
+          "aircraft": "ERJ",
+          "arrivalTime": "2017-12-03T11:45-05:00",
+          "departureTime": "2017-12-03T10:22-05:00",
+          "origin": "YYZ",
+          "destination": "IAD",
+          "originTerminal": "1",
+          "duration": 83,
+          "operatingDisclosure": "OPERATED BY TRANS STATES AIRLINES DBA UNITED EXPRESS",
+          "mileage": 345,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 45
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 855,
+        "flight": {
+         "carrier": "UA",
+         "number": "803"
+        },
+        "id": "GBM5AuNFlqsaOBCq",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LVj+xdwFGqXgIx8L",
+          "aircraft": "777",
+          "arrivalTime": "2017-12-04T16:45+09:00",
+          "departureTime": "2017-12-03T12:30-05:00",
+          "origin": "IAD",
+          "destination": "NRT",
+          "destinationTerminal": "1",
+          "duration": 855,
+          "mileage": 6735,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "G7adPtqlOKErCc95"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GBM5AuNFlqsaOBCq"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/WAS UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF IAD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00K",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1110,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 107,
+        "flight": {
+         "carrier": "UA",
+         "number": "8361"
+        },
+        "id": "GCAHKPnMxbNi5pZb",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LfmrJVgZq+Qa8o-V",
+          "aircraft": "E90",
+          "arrivalTime": "2017-12-03T12:47-06:00",
+          "departureTime": "2017-12-03T12:00-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 107,
+          "operatingDisclosure": "OPERATED BY AIR CANADA",
+          "mileage": 434,
+          "meal": "Food for Purchase",
+          "secure": true
+         }
+        ],
+        "connectionDuration": 208
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 795,
+        "flight": {
+         "carrier": "UA",
+         "number": "7911"
+        },
+        "id": "GuQKPfGlfUofReGC",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LIyHbG5gY21nQRgE",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T20:30+09:00",
+          "departureTime": "2017-12-03T16:15-06:00",
+          "origin": "ORD",
+          "destination": "HND",
+          "originTerminal": "1",
+          "destinationTerminal": "I",
+          "duration": 795,
+          "operatingDisclosure": "OPERATED BY ANA",
+          "mileage": 6288,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GCAHKPnMxbNi5pZb"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GuQKPfGlfUofReGC"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/CHI UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00E",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1015,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 107,
+        "flight": {
+         "carrier": "UA",
+         "number": "8134"
+        },
+        "id": "GWoOBR4ekYUZk8Pe",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L6wV-YQJqiQ6U7Qf",
+          "aircraft": "E90",
+          "arrivalTime": "2017-12-03T10:47-06:00",
+          "departureTime": "2017-12-03T10:00-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 107,
+          "operatingDisclosure": "OPERATED BY AIR CANADA",
+          "mileage": 434,
+          "meal": "Food for Purchase",
+          "secure": true
+         }
+        ],
+        "connectionDuration": 98
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 810,
+        "flight": {
+         "carrier": "UA",
+         "number": "881"
+        },
+        "id": "GqoYRVAnMz+Ns7i2",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LRYOqn5-Stra37sD",
+          "aircraft": "777",
+          "arrivalTime": "2017-12-04T16:55+09:00",
+          "departureTime": "2017-12-03T12:25-06:00",
+          "origin": "ORD",
+          "destination": "NRT",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 810,
+          "mileage": 6257,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GqoYRVAnMz+Ns7i2"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GWoOBR4ekYUZk8Pe"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/CHI UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00D",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1010,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 118,
+        "flight": {
+         "carrier": "UA",
+         "number": "211"
+        },
+        "id": "GLWFhikRR5b6OtdT",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LyZmuA7K8jqyV7Cr",
+          "aircraft": "319",
+          "arrivalTime": "2017-12-03T11:03-06:00",
+          "departureTime": "2017-12-03T10:05-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 118,
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 82
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 810,
+        "flight": {
+         "carrier": "UA",
+         "number": "881"
+        },
+        "id": "GqoYRVAnMz+Ns7i2",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LRYOqn5-Stra37sD",
+          "aircraft": "777",
+          "arrivalTime": "2017-12-04T16:55+09:00",
+          "departureTime": "2017-12-03T12:25-06:00",
+          "origin": "ORD",
+          "destination": "NRT",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 810,
+          "mileage": 6257,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GqoYRVAnMz+Ns7i2"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GLWFhikRR5b6OtdT"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/CHI UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00J",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1100,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 219,
+        "flight": {
+         "carrier": "UA",
+         "number": "8497"
+        },
+        "id": "GsMk7s+-kL0ftNWy",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L-SEV9PUTwM4Ru95",
+          "aircraft": "E90",
+          "arrivalTime": "2017-12-03T09:49-07:00",
+          "departureTime": "2017-12-03T08:10-05:00",
+          "origin": "YYZ",
+          "destination": "DEN",
+          "originTerminal": "1",
+          "duration": 219,
+          "operatingDisclosure": "OPERATED BY AIR CANADA",
+          "mileage": 1311,
+          "meal": "Food for Purchase",
+          "secure": true
+         }
+        ],
+        "connectionDuration": 136
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 745,
+        "flight": {
+         "carrier": "UA",
+         "number": "143"
+        },
+        "id": "GK6Na6AmTCt3oJhP",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LNjyQg98fPyLIG7s",
+          "aircraft": "788",
+          "arrivalTime": "2017-12-04T16:30+09:00",
+          "departureTime": "2017-12-03T12:05-07:00",
+          "origin": "DEN",
+          "destination": "NRT",
+          "destinationTerminal": "1",
+          "duration": 745,
+          "mileage": 5771,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GsMk7s+-kL0ftNWy"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GK6Na6AmTCt3oJhP"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/DEN UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF DEN4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1071.26",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00H",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1097,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 119,
+        "flight": {
+         "carrier": "UA",
+         "number": "3400"
+        },
+        "id": "G8f4uFUYpQCB+2gS",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L5Lf4jAJrHwLpg4Z",
+          "aircraft": "E7W",
+          "arrivalTime": "2017-12-03T13:12-06:00",
+          "departureTime": "2017-12-03T12:13-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 119,
+          "operatingDisclosure": "OPERATED BY REPUBLIC AIRLINES DBA UNITED EXPRESS",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 183
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 795,
+        "flight": {
+         "carrier": "UA",
+         "number": "7911"
+        },
+        "id": "GuQKPfGlfUofReGC",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LIyHbG5gY21nQRgE",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T20:30+09:00",
+          "departureTime": "2017-12-03T16:15-06:00",
+          "origin": "ORD",
+          "destination": "HND",
+          "originTerminal": "1",
+          "destinationTerminal": "I",
+          "duration": 795,
+          "operatingDisclosure": "OPERATED BY ANA",
+          "mileage": 6288,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "carrier": "UA",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "G8f4uFUYpQCB+2gS"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AIOkqzvMSKB7ePOkLddwjbqmmtwlQqKWC1qN1IBf4hDJu7vg",
+        "segmentId": "GuQKPfGlfUofReGC"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD87.26",
+      "saleTotal": "CAD1071.26",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO UA X/CHI UA TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1072.46",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00G",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1090,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 119,
+        "flight": {
+         "carrier": "NH",
+         "number": "7763"
+        },
+        "id": "GDCxaqIoP0Tw-GP-",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LwAgQGYgdUAAe0e6",
+          "aircraft": "E7W",
+          "arrivalTime": "2017-12-03T09:44-06:00",
+          "departureTime": "2017-12-03T08:45-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 119,
+          "operatingDisclosure": "OPERATED BY SKYWEST DBA UNITED EXPRESS",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 161
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 810,
+        "flight": {
+         "carrier": "NH",
+         "number": "7009"
+        },
+        "id": "GmCgUDdfeCXp+g3P",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LgYjU3tlrGAFtJlj",
+          "aircraft": "777",
+          "arrivalTime": "2017-12-04T16:55+09:00",
+          "departureTime": "2017-12-03T12:25-06:00",
+          "origin": "ORD",
+          "destination": "NRT",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 810,
+          "operatingDisclosure": "OPERATED BY UNITED",
+          "mileage": 6257,
+          "meal": "Lunch",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "carrier": "NH",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "GDCxaqIoP0Tw-GP-"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "GmCgUDdfeCXp+g3P"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD88.46",
+      "saleTotal": "CAD1072.46",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CAD1.20"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO NH X/CHI NH TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 1.20YQ 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1072.46",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00B",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 987,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 119,
+        "flight": {
+         "carrier": "NH",
+         "number": "7383"
+        },
+        "id": "GgjO5QbVkkcWPHss",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Le6gFPQGpyiEqQND",
+          "aircraft": "E7W",
+          "arrivalTime": "2017-12-03T15:02-06:00",
+          "departureTime": "2017-12-03T14:03-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 119,
+          "operatingDisclosure": "OPERATED BY SKYWEST DBA UNITED EXPRESS",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 73
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 795,
+        "flight": {
+         "carrier": "NH",
+         "number": "111"
+        },
+        "id": "GT6KQHg5guOz35Wa",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LUFTUdHSxQU-wMmd",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T20:30+09:00",
+          "departureTime": "2017-12-03T16:15-06:00",
+          "origin": "ORD",
+          "destination": "HND",
+          "originTerminal": "1",
+          "destinationTerminal": "I",
+          "duration": 795,
+          "mileage": 6288,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "carrier": "NH",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "GT6KQHg5guOz35Wa"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "GgjO5QbVkkcWPHss"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD88.46",
+      "saleTotal": "CAD1072.46",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CAD1.20"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO NH X/CHI NH TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 1.20YQ 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1072.46",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH007",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 960,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 119,
+        "flight": {
+         "carrier": "NH",
+         "number": "7763"
+        },
+        "id": "GDCxaqIoP0Tw-GP-",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LwAgQGYgdUAAe0e6",
+          "aircraft": "E7W",
+          "arrivalTime": "2017-12-03T09:44-06:00",
+          "departureTime": "2017-12-03T08:45-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 119,
+          "operatingDisclosure": "OPERATED BY SKYWEST DBA UNITED EXPRESS",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 41
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 800,
+        "flight": {
+         "carrier": "NH",
+         "number": "11"
+        },
+        "id": "GZfTwpHCmLiP91Qj",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Lhc33GxEfuyWSV33",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T14:45+09:00",
+          "departureTime": "2017-12-03T10:25-06:00",
+          "origin": "ORD",
+          "destination": "NRT",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 800,
+          "mileage": 6257,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "carrier": "NH",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "GZfTwpHCmLiP91Qj"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "GDCxaqIoP0Tw-GP-"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD88.46",
+      "saleTotal": "CAD1072.46",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CAD1.20"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO NH X/CHI NH TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 1.20YQ 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "CAD1072.46",
+    "id": "Hzn0dI8hfn3PrKix7QJdUH00I",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 1097,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 119,
+        "flight": {
+         "carrier": "NH",
+         "number": "7807"
+        },
+        "id": "G7nXSWY06c1gc7sh",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Lcn26zVo2oL8dzXg",
+          "aircraft": "E7W",
+          "arrivalTime": "2017-12-03T13:12-06:00",
+          "departureTime": "2017-12-03T12:13-05:00",
+          "origin": "YYZ",
+          "destination": "ORD",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 119,
+          "operatingDisclosure": "OPERATED BY REPUBLIC AIRLINES DBA UNITED EXPRESS",
+          "mileage": 434,
+          "secure": true
+         }
+        ],
+        "connectionDuration": 183
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 795,
+        "flight": {
+         "carrier": "NH",
+         "number": "111"
+        },
+        "id": "GT6KQHg5guOz35Wa",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LUFTUdHSxQU-wMmd",
+          "aircraft": "77W",
+          "arrivalTime": "2017-12-04T20:30+09:00",
+          "departureTime": "2017-12-03T16:15-06:00",
+          "origin": "ORD",
+          "destination": "HND",
+          "originTerminal": "1",
+          "destinationTerminal": "I",
+          "duration": 795,
+          "mileage": 6288,
+          "meal": "Meal",
+          "secure": true
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "carrier": "NH",
+        "origin": "YTO",
+        "destination": "TYO",
+        "basisCode": "QKV0OUJA"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "GT6KQHg5guOz35Wa"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AzPnOJgnCGaKyti98MLwyHClmhP83J/uQYK1XwbOAg9ATCeo",
+        "segmentId": "G7nXSWY06c1gc7sh"
+       }
+      ],
+      "baseFareTotal": "CAD984.00",
+      "saleFareTotal": "CAD984.00",
+      "saleTaxTotal": "CAD88.46",
+      "saleTotal": "CAD1072.46",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "CAD1.20"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "AY_001",
+        "chargeType": "GOVERNMENT",
+        "code": "AY",
+        "country": "US",
+        "salePrice": "CAD7.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XA",
+        "chargeType": "GOVERNMENT",
+        "code": "XA",
+        "country": "US",
+        "salePrice": "CAD4.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XY",
+        "chargeType": "GOVERNMENT",
+        "code": "XY",
+        "country": "US",
+        "salePrice": "CAD8.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YC",
+        "chargeType": "GOVERNMENT",
+        "code": "YC",
+        "country": "US",
+        "salePrice": "CAD6.90"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "SQ",
+        "chargeType": "GOVERNMENT",
+        "code": "SQ",
+        "country": "CA",
+        "salePrice": "CAD25.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RC",
+        "chargeType": "GOVERNMENT",
+        "code": "RC",
+        "country": "CA",
+        "salePrice": "CAD3.25"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CA",
+        "chargeType": "GOVERNMENT",
+        "code": "CA",
+        "country": "CA",
+        "salePrice": "CAD25.91"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "XF",
+        "chargeType": "GOVERNMENT",
+        "code": "XF",
+        "country": "US",
+        "salePrice": "CAD5.60"
+       }
+      ],
+      "fareCalculation": "YTO NH X/CHI NH TYO 800.13QKV0OUJA NUC 800.13 END ROE 1.22979 FARE CAD 984.00 XT 25.91CA 3.25RC 25.00SQ 6.90YC 8.70XY 4.90XA 7.00AY 1.20YQ 5.60XF ORD4.50",
+      "latestTicketingTime": "2017-10-25T23:59-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   }
+  ]
+ }
+}
