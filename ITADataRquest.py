@@ -8,7 +8,7 @@ import json,io
 import ITARequestClass
 
 # Specify the Api key here
-APIKEY = "AIzaSyDA6oFy5WZ4-srzg2E3wWb8WrrGw3vjK_Y"
+APIKEY = ""
 
 # The request url to server when making http request
 url =  "https://www.googleapis.com/qpxExpress/v1/trips/search?key=" + APIKEY
